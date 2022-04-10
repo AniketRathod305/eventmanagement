@@ -1,0 +1,10 @@
+.addevent{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+input,button{
+    width:50vw;
+}

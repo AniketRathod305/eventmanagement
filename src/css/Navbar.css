@@ -1,0 +1,43 @@
+#navbar{
+    background-color: rgb(1, 7, 53);
+    width:100vw;
+    height:20vh;
+}
+
+#layout1{
+    display:flex;
+}
+
+ul{
+    display:flex;
+    flex-direction: row;
+}
+
+ul li{
+    list-style: none;
+    padding:8px;
+    font-size:x-large;
+
+}
+
+#navimg{
+    width:400px;
+    height:20vh;
+  
+}
+
+.title1{
+    font-size:x-large;
+    padding:20px
+}
+
+.title2{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.title3{
+    color:rgb(81, 81, 197)
+}

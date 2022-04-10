@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+Button{
+    margin:5px;
+}
+
+Form{
+    margin:40px;
+}
+
+.eventbtn{
+    margin-left: 300px;
+}
